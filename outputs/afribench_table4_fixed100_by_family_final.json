@@ -1,0 +1,114 @@
+{
+    "fixed_size": 100,
+    "validity_rank_distance_down": {
+        "random_acc": {
+            "gemini_gemma": 0.6666666666666666,
+            "gpt": 0.8,
+            "qwen": 0.2
+        },
+        "random_irt": {
+            "gemini_gemma": 0.8,
+            "gpt": 0.4,
+            "qwen": 0.0
+        },
+        "fluid": {
+            "gemini_gemma": 0.6666666666666666,
+            "gpt": 0.0,
+            "qwen": 0.0
+        },
+        "bald": {
+            "gemini_gemma": 1.4666666666666666,
+            "gpt": 0.0,
+            "qwen": 0.4
+        },
+        "var_bald": {
+            "gemini_gemma": 0.13333333333333333,
+            "gpt": 0.4,
+            "qwen": 0.0
+        },
+        "bald_weighted": {
+            "gemini_gemma": 0.4,
+            "gpt": 0.4,
+            "qwen": 0.0
+        },
+        "rank_bald": {
+            "gemini_gemma": 0.1333333333333333,
+            "gpt": NaN,
+            "qwen": NaN
+        }
+    },
+    "variance_total_variation_down": {
+        "random_acc": {
+            "gemini_gemma": 1.7727272727272723,
+            "gpt": null,
+            "qwen": null
+        },
+        "random_irt": {
+            "gemini_gemma": 1.7628253421949698,
+            "gpt": null,
+            "qwen": null
+        },
+        "fluid": {
+            "gemini_gemma": 2.288251632520275,
+            "gpt": null,
+            "qwen": null
+        },
+        "bald": {
+            "gemini_gemma": 1.5106286198660714,
+            "gpt": null,
+            "qwen": null
+        },
+        "var_bald": {
+            "gemini_gemma": 2.1661667130205577,
+            "gpt": null,
+            "qwen": null
+        },
+        "bald_weighted": {
+            "gemini_gemma": 2.130455173152064,
+            "gpt": null,
+            "qwen": null
+        },
+        "rank_bald": {
+            "gemini_gemma": 1.4559595279858156,
+            "gpt": null,
+            "qwen": null
+        }
+    },
+    "saturation_rank_correlation_up": {
+        "random_acc": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "random_irt": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "fluid": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "bald": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "var_bald": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "bald_weighted": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        },
+        "rank_bald": {
+            "gemini_gemma": 0.9,
+            "gpt": null,
+            "qwen": null
+        }
+    }
+}
