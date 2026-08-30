@@ -333,8 +333,9 @@ RankBALD's improvements are statistically significant on validity (p=0.021 vs Fl
 ```bibtex
 @inproceedings{dossou2026rankbald,
   title     = {RankBALD: Ranking-Aligned Active Evaluation for Language Models},
-  author    = {Dossou, Bonaventure F. P. and Cheung, Jackie Chi Kit},
+  author    = {Bonaventure F. P. Dossou and Jackie Chi Kit Cheung},
   booktitle = {Third Conference on Language Modeling},
+url={https://openreview.net/forum?id=WGF7BPL7WF},
   year      = {2026}
 }
 ```
